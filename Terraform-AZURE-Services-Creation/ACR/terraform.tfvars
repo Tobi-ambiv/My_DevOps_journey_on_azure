@@ -1,0 +1,2 @@
+name     = "devopsonazure"
+location = "uksouth"
